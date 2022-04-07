@@ -1,5 +1,15 @@
 # 160 个 CrackMe
 
+## 下载
+
+```
+docker pull apachecn0/crackme160
+docker run -tid -p <port>:80 apachecn0/crackme160
+# 访问 http://localhost:{port} 查看文档
+```
+
+## 目录
+
 |  编号 | 作者 | 难度 | 保护方式 |
 | --- | --- | --- | --- |
 |  1 | [Acid burn](Acid%20burn.zip) | ★ | Nag,Name/Serial,Serial |
